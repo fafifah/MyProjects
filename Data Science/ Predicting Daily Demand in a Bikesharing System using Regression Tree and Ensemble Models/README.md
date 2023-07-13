@@ -8,11 +8,28 @@ The objective of this project is to develop regression trees and ensemble-based 
 
 **Random Forest Model**
 
-<img width="543" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/97916609-1452-4d8d-ba01-2fc435310323">
+<img width="505" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/1207f85d-92b5-4746-8726-545707d15aef">
 
 **Gradient Boosted Model**
 
-<img width="605" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/810edf59-3162-43b6-b208-230657dfee76">
+<img width="531" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/4225bc78-d088-4baa-a8b8-4d8ee7bcf64f">
+
+**Different Model Predictions**
+
+<img width="618" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/960ede70-d90a-4442-b479-21a5a427ada4">
+<img width="498" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/bbf22854-4ca9-45fd-86c2-34fd9b07c465">
+<img width="499" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/058e0dab-0db6-4647-bd41-a29f66284ac2">
+<img width="484" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/e7c99e00-4312-4e8c-8ca0-8ce22aa91adc">
+<img width="498" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/a1706a3d-11fb-4817-b253-9c389474a758">
+<img width="492" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/a11b8e49-e623-4cc6-87c6-83d100f59463">
+
+
+
+
+
+
+
+
 
 
 
