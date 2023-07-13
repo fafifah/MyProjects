@@ -5,4 +5,6 @@ The objective of this project is to apply kernel density estimation to analyze a
 <img width="507" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/289eb4f8-f215-46e1-9bcc-455a04b6c15c">
 <img width="465" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/a267cc2f-9318-4a41-8576-1a80c51a25cf">
 
+**Analyzing Model Parameters**
 
+<img width="626" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/5ae81956-aee5-452a-b848-6120029a5076">
