@@ -4,4 +4,5 @@ The findings revealed significant variations between drivers and non-drivers in 
 
 The project highlighted the need for better communication and education regarding ADAS technology to ensure safer interactions between vehicles and other road users. The results provided valuable insights for policymakers and designers of ADAS systems to address the diverse expectations and behaviors of different road-user groups. The study emphasized the importance of individualized or targeted approaches to address the specific needs and perceptions of each road-user category.
 
-Overall, the project contributes to the understanding of how different road users perceive and interact with ADAS technology, and it provides recommendations for improving safety and promoting the adoption of advanced vehicle technologies.
+Overall, the project contributes to the understanding of how different road users perceive and interact with ADAS technology, and it provides recommendations for improving safety and promoting the adoption of advanced vehicle technologies. The details can be found in: https://aaafoundation.org/wp-content/uploads/2021/06/Understanding-of-ADAS-among-Different-Road-User-Types-FINAL.pdf
+
