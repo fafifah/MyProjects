@@ -16,8 +16,8 @@ The project involved analyzing the bikesharing dataset, which records the number
 _Model 1: Predicting hourly demand of 2012_
 
 <img width="774" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/8156dd53-e4c8-400c-8ba7-e72d812a6850">
-<img width="586" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/37248a88-84bb-434a-a82a-b81bd6d3437d">
-<img width="545" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/96037f68-6485-45a7-ae44-bc241ac5c6d7">
+<img width="400" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/37248a88-84bb-434a-a82a-b81bd6d3437d">
+<img width="400" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/96037f68-6485-45a7-ae44-bc241ac5c6d7">
 
 
 
