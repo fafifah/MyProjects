@@ -14,6 +14,8 @@
 
 **Scatter matrix analysis of variables, revealing relationships between payment methods and vendor types.**
 <img width="422" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/6dc5078a-351a-4bae-b8d5-b1d3ecf6d95e">
+<img width="413" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/65eee108-44f4-4ba4-b46e-30320d0c3a90">
+
 
 
 
