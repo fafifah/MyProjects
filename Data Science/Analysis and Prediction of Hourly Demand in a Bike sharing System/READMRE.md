@@ -6,8 +6,8 @@ The project involved analyzing the bikesharing dataset, which records the number
 
 **Hourly demand of bikes**
 
-<img width="602" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/0a5d3f74-a7f8-4473-b19b-9d98bc329cb3">
-<img width="542" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/2f50a542-f5ef-47aa-b507-475efcffd231">
+<img width="492" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/0a5d3f74-a7f8-4473-b19b-9d98bc329cb3">
+<img width="492" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/2f50a542-f5ef-47aa-b507-475efcffd231">
 <img width="492" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/adaadff1-e67b-4d96-93bf-a8507d05192e">
 
 
