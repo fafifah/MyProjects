@@ -21,7 +21,7 @@ The objective of this project is to develop regression trees and ensemble-based 
 <img width="499" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/058e0dab-0db6-4647-bd41-a29f66284ac2">
 <img width="484" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/e7c99e00-4312-4e8c-8ca0-8ce22aa91adc">
 <img width="498" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/a1706a3d-11fb-4817-b253-9c389474a758">
-<img width="492" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/a11b8e49-e623-4cc6-87c6-83d100f59463">
+<img width="490" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/a11b8e49-e623-4cc6-87c6-83d100f59463">
 
 
 
