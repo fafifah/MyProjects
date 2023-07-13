@@ -8,6 +8,15 @@ Some observations are shown below:
 
 <img width="1009" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/999664e0-ff05-41a4-8337-0899c61f09ba">
 
+<img width="658" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/dcc50752-555f-4b27-8144-fe85d871ef18">
+
+<img width="628" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/11dddd06-52be-42f5-bbfe-b1ea1f50c17c">
+
+<img width="656" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/51f48492-b158-4a43-8cbc-2d669abe0c65">
+
+
+
+
 
 
 
