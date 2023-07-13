@@ -16,7 +16,7 @@ To determine the optimal number of clusters (k), two different seed selection st
 
 **Visualization of the progress of the K-Mean algorithm at each iteration**
 
-There is a total of 20 iteration figure. Only the first and last few iterations are shown here.
+The progress of the k-means algorithm was visualized at each iteration, showing the movement of the centroids. Additionally, the process was repeated with different random initial seeds to observe the effect on the clustering results.There is a total of 20 iteration figure. Only the first and last few iterations are shown here.
 
 <img width="521" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/8cf9f843-caee-49db-babf-926de640732d">
 <img width="518" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/6146470f-b649-46e9-b221-2f641f92dfba">
@@ -27,7 +27,7 @@ There is a total of 20 iteration figure. Only the first and last few iterations 
 
 
 
-The progress of the k-means algorithm was visualized at each iteration, showing the movement of the centroids. Additionally, the process was repeated with different random initial seeds to observe the effect on the clustering results.
+
 
 Furthermore, the study explored the impact of varying the parameters of the Gaussian distributions (mean and variance) on the clustering results. It was found that regardless of changes in the mean and standard deviation, the optimal number of clusters remained the same.
 
