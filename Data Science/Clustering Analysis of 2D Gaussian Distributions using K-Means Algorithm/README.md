@@ -25,7 +25,7 @@ The progress of the k-means algorithm was visualized at each iteration, showing 
 **Experimenting with different seed**
 
 <img width="508" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/0176960d-a74d-49a8-a87d-edfbbd28dba5">
-<img width="880" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/1d3ba3e2-47a1-4419-80ba-c457a40c3986">
+<img width="508" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/1d3ba3e2-47a1-4419-80ba-c457a40c3986">
 
 
 
