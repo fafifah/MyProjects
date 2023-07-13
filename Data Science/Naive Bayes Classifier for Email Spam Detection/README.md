@@ -6,5 +6,6 @@ The task involved training a naive Bayes classifier for email spam detection usi
 4. Comparison of performance between multinomial and Gaussian naive Bayes classifiers.
 
 **Model Test Result**
+
 <img width="430" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/c7e32019-9bfd-4009-902f-ae83cfb68bfa">
 
