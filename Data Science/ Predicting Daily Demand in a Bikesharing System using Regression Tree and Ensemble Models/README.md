@@ -16,7 +16,7 @@ The objective of this project is to develop regression trees and ensemble-based 
 
 **Different Model Predictions**
 
-<img width="618" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/960ede70-d90a-4442-b479-21a5a427ada4">
+<img width="492" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/960ede70-d90a-4442-b479-21a5a427ada4">
 <img width="498" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/bbf22854-4ca9-45fd-86c2-34fd9b07c465">
 <img width="499" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/058e0dab-0db6-4647-bd41-a29f66284ac2">
 <img width="484" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/e7c99e00-4312-4e8c-8ca0-8ce22aa91adc">
