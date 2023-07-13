@@ -1,1 +1,1 @@
-
+This repository includes my studies during my Ph.D. in mathematical modeling. The studies consist of topics such as electric vehicles, ride-sourcing services, connected and automated vehicles in the presence of information, and optimal information planning. 
