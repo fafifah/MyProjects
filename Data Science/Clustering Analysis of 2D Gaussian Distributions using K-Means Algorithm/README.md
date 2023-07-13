@@ -22,6 +22,14 @@ The progress of the k-means algorithm was visualized at each iteration, showing 
 <img width="518" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/6146470f-b649-46e9-b221-2f641f92dfba">
 <img width="533" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/a293dac6-03f7-4ede-b5a1-ec59b34c4fcd">
 
+**Experimenting with different seed**
+
+<img width="508" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/0176960d-a74d-49a8-a87d-edfbbd28dba5">
+<img width="880" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/1d3ba3e2-47a1-4419-80ba-c457a40c3986">
+
+
+
+
 
 
 
