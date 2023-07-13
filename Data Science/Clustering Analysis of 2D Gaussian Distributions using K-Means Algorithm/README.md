@@ -28,16 +28,14 @@ The progress of the k-means algorithm was visualized at each iteration, showing 
 <img width="508" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/1d3ba3e2-47a1-4419-80ba-c457a40c3986">
 
 
+**what happens when the parameters of the Gaussian (mean and variance) are varied.**
+
+The study explored the impact of varying the parameters of the Gaussian distributions (mean and variance) on the clustering results. It was found that regardless of changes in the mean and standard deviation, the optimal number of clusters remained the same.
+
+<img width="416" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/3fcf0054-a0c3-423a-a04e-e637340dfcd6">
+<img width="603" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/39311bef-fc59-437d-b0e0-070d90e00a7e">
 
 
-
-
-
-
-
-
-
-Furthermore, the study explored the impact of varying the parameters of the Gaussian distributions (mean and variance) on the clustering results. It was found that regardless of changes in the mean and standard deviation, the optimal number of clusters remained the same.
 
 
 
