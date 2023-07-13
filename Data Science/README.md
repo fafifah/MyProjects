@@ -1,0 +1,1 @@
+This repository includes all my experiences in Data Science. For some of the projects, the details are not revealed for the work being in progress. I am eager to learn about Data Science and make a impact in the society with my work.
