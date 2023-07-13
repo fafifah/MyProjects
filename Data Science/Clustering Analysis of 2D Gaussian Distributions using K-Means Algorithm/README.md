@@ -15,7 +15,9 @@ To determine the optimal number of clusters (k), two different seed selection st
 <img width="493" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/02e87f06-c080-44e9-bd72-ec9a61ab75d7">
 
 **Visualization of the progress of the K-Mean algorithm at each iteration**
+
 There is a total of 20 iteration figure. Only the first and last few iterations are shown here.
+
 <img width="521" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/8cf9f843-caee-49db-babf-926de640732d">
 <img width="518" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/6146470f-b649-46e9-b221-2f641f92dfba">
 <img width="533" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/a293dac6-03f7-4ede-b5a1-ec59b34c4fcd">
