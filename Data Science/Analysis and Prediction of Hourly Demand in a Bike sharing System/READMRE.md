@@ -22,8 +22,8 @@ _Model 1: Predicting hourly demand of 2012_
 _Model 2: 80% training dataset_
 
 <img width="781" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/e2d007e2-cee9-42d7-bc44-c22f7ac8f419">
-<img width="536" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/a3ff012c-06c7-4c0b-9594-65f14d84dead">
-<img width="514" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/3f2da6af-3b1c-4048-b20a-04eb0efe625e">
+<img width="500" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/a3ff012c-06c7-4c0b-9594-65f14d84dead">
+<img width="500" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/3f2da6af-3b1c-4048-b20a-04eb0efe625e">
 
 
 
