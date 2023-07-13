@@ -12,6 +12,8 @@
 <img width="392" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/1ccf8e39-4caf-4301-be5b-d79f41996cd2">
 <img width="395" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/cce27976-4a48-415c-9351-7af36b1b102b">
 
+**Scatter matrix analysis of variables, revealing relationships between payment methods and vendor types.**
+<img width="422" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/6dc5078a-351a-4bae-b8d5-b1d3ecf6d95e">
 
 
 
