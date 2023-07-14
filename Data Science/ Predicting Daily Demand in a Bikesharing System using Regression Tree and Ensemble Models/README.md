@@ -1,6 +1,23 @@
 Objective:
 The objective of this project is to develop regression trees and ensemble-based regression models to predict the daily demand for a bike-sharing system. The project aims to evaluate the models' performance, prevent overfitting, analyze feature importance, and detect specific events such as weather conditions and holidays.
 
+• Developed a decision tree regressor model to predict daily demand in a bike-sharing system.
+
+• Pre-tuned the model to prevent overfitting and obtained reasonable accuracy and performance
+metrics.
+
+• Analyzed feature importance to identify the most influential factors in predicting daily demand.
+
+• Visualized the selected regression tree for better understanding and interpretation of the model.
+
+• Built ensemble-based regression models using random forests and gradient-boosting approaches.
+
+• Plotted feature importance for both ensemble models to assess the significance of different features.
+• Compared the accuracy levels of the three approaches and observed their strengths and weaknesses.
+
+• Explored the models’ capability to detect specific events, such as weather-related variations and
+holidays.
+
 **Decision Tree Model**
 
 <img width="546" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/ef4aa3de-bd71-42ac-afb4-6906f8a4c88b">
