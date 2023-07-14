@@ -1,3 +1,17 @@
+The goal of this task was to analyze and visualize the daily taxi trips in New York City for a
+specific period, particularly during Hurricane Sandy. The findings included:
+
+• Visualization of daily taxi trips, showing variations in pickup and drop-off locations.
+
+• Analysis of the impact of Hurricane Sandy on taxi trips, with a decrease in trips on the day of the
+landfall.
+
+• Distribution analysis of trip distance, taxi fare, and tip amount, highlighting outliers and the skewed
+nature of the data.
+
+• Scatter matrix analysis of variables, revealing relationships between payment methods and ven-
+dor types
+
 **Visualization of daily taxi trips, showing variations in pickup and drop-off locations.**
 <img width="572" alt="image" src="https://github.com/fafifah/MyProjects/assets/136669312/b9c57750-1c2a-4326-9773-c5241af246c6">
 
